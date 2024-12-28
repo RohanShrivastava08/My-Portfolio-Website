@@ -130,6 +130,12 @@ import Notion2 from "../assets/notion2.jfif";
 import Notion3 from "../assets/notion3.jfif";
 import Notion4 from "../assets/notion4.jfif";
 import Notion5 from "../assets/notion5.jfif";
+import Thirtysix1 from "../assets/thirtysix1.png";
+import Thirtysix2 from "../assets/thirtysix2.png";
+import Thirtysix3 from "../assets/thirtysix3.png";
+import Real1 from "../assets/real1.png";
+import Real2 from "../assets/real2.png";
+import Real3 from "../assets/real3.png";
 
 const projects = [
   {
@@ -159,6 +165,20 @@ const projects = [
       "📰 Developed a live news application fetching data from News API. Tech Stack: React, Axios, News API.",
     link: "https://github.com/RohanShrivastava08/Live-News-App-using-React.js-News-API",
     images: [Livenews1, Livenews2, Livenews3, Livenews4, Livenews5],
+  },
+  {
+    title: "Thirtysixstudios Page using GSAP & React",
+    description:
+      "🚀 Developed a landing page for a design studio using GSAP and React. Tech Stack: React, GSAP, Tailwind CSS.",
+    link: "https://github.com/RohanShrivastava08/Thirtysixstudios-website-using-React-GSAP",
+    images: [Thirtysix1, Thirtysix2, Thirtysix3],
+  },
+  {
+    title: "Realtime Tracker using Express & Ejs",
+    description:
+      "📍 Built a real-time tracker for tracking user locations. Tech Stack: Node.js, Express, Ejs.",
+    link: "https://github.com/RohanShrivastava08/Realtime-Tracker-using-Express-Ejs",
+    images: [Real1, Real2, Real3],
   },
   {
     title: "EV Landing Page using React & Vite",
