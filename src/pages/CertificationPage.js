@@ -35,6 +35,7 @@ import CertificateIntrotogit from '../assets/certificateIntrotogit.jpg';
 import CertificateMicrosoft365 from '../assets/certificateMicrosoft365.jpg';
 import CertificateSsoc from '../assets/certificateSsoc.png';
 import CertificateCn from '../assets/certificateCn.png';
+import CertificateAdobe from '../assets/certificateAdobe.jpg';
 
 const certifications = [
   {
@@ -65,6 +66,11 @@ const certifications = [
     title: "Microsoft 365 Fundamentals Specialization - Microsoft via Coursera",
     description: "Specialization in Microsoft 365 Fundamentals.",
     image: CertificateMicrosoft365,
+  },
+  {
+    title: "Adobe Content Creation Specialist - Adobe via Coursera",
+    description: "Specialization in Adobe content creation tools.",
+    image: CertificateAdobe,
   },
   {
     title: "Social Summer of Code - Season 3",
