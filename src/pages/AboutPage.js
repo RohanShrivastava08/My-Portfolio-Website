@@ -159,12 +159,17 @@ const AboutPage = () => {
                 <h3 className="font-semibold text-gray-300 mb-2">Frontend</h3>
                 <ul className="list-disc list-inside ml-4 text-gray-400 space-y-1">
                   <li className="transition-colors duration-300 hover:text-gray-100 cursor-pointer">React.js</li>
+                  <li className="transition-colors duration-300 hover:text-gray-100 cursor-pointer">Next.js</li>
                   <li className="transition-colors duration-300 hover:text-gray-100 cursor-pointer">Redux</li>
                   <li className="transition-colors duration-300 hover:text-gray-100 cursor-pointer">Tailwind CSS</li>
+                  <li className="transition-colors duration-300 hover:text-gray-100 cursor-pointer">Framer Motion</li>
+                  <li className="transition-colors duration-300 hover:text-gray-100 cursor-pointer">GSAP</li>
                   <li className="transition-colors duration-300 hover:text-gray-100 cursor-pointer">HTML</li>
                   <li className="transition-colors duration-300 hover:text-gray-100 cursor-pointer">CSS</li>
                   <li className="transition-colors duration-300 hover:text-gray-100 cursor-pointer">JavaScript</li>
                   <li className="transition-colors duration-300 hover:text-gray-100 cursor-pointer">Bootstrap CSS</li>
+                  
+                  
                 </ul>
               </div>
               <div>
