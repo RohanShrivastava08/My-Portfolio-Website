@@ -190,10 +190,11 @@ const AboutPage = () => {
               <div>
                 <h3 className="font-semibold text-gray-300 mb-2">Tools & Technologies</h3>
                 <ul className="list-disc list-inside ml-4 text-gray-400 space-y-1">
+                <li className="transition-colors duration-300 hover:text-gray-100 cursor-pointer">VS Code</li>
+                <li className="transition-colors duration-300 hover:text-gray-100 cursor-pointer">Cursor</li>
+                <li className="transition-colors duration-300 hover:text-gray-100 cursor-pointer">Sublime Text</li>
                   <li className="transition-colors duration-300 hover:text-gray-100 cursor-pointer">Ansible</li>
                   <li className="transition-colors duration-300 hover:text-gray-100 cursor-pointer">DBMS</li>
-                  <li className="transition-colors duration-300 hover:text-gray-100 cursor-pointer">VS Code</li>
-                  <li className="transition-colors duration-300 hover:text-gray-100 cursor-pointer">Sublime Text</li>
                   <li className="transition-colors duration-300 hover:text-gray-100 cursor-pointer">Canva</li>
                   <li className="transition-colors duration-300 hover:text-gray-100 cursor-pointer">Xampp</li>
                   <li className="transition-colors duration-300 hover:text-gray-100 cursor-pointer">Notion</li>
